@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327837004201",
+    "firebase_url": "https://ip-address-2b205-default-rtdb.firebaseio.com",
+    "project_id": "ip-address-2b205",
+    "storage_bucket": "ip-address-2b205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327837004201:android:86562b0ee405abc33054b8",
+        "android_client_info": {
+          "package_name": "com.akdr.akdrhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327837004201-e03gu6lpgfs81lk3utsi107midj0njbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuV6KFbmKpgN3UygdIxzPQ92A4O7Lcz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327837004201-e03gu6lpgfs81lk3utsi107midj0njbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

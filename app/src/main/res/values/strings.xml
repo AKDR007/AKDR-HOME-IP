@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">AKDR Home</string>
+    <string name="HU">Hello User</string>
+    <string name="M">Mail ID</string>
+    <string name="P">Password</string>
+    <string name="L">Login</string>
+
+</resources>
